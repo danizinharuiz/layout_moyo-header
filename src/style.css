@@ -50,6 +50,7 @@ body {
   display: flex;
   align-items: center;
 
+
   height: 60px;
 
   color: #000;
@@ -69,6 +70,7 @@ body {
   border-radius: 2px;
 
   background-color: var(--blue);
+
 }
 
 .menu a:hover {
@@ -84,3 +86,4 @@ body {
     margin-left: 16px;
   }
 }
+
